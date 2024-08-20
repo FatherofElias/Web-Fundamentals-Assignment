@@ -1,0 +1,8 @@
+This is the code used to creat and activate the Virtual Environment and also install the 'requests' package into
+the virtual environment.
+
+1. python -m venv cosmosvenv
+
+2. cosmosvenv\Scripts\activate
+
+3. pip install requests
