@@ -1,0 +1,9 @@
+This is the code used to create activate and install everything in the virtual environment
+This is the entirety of Task 1.
+
+
+1. python -m venv wfvenv
+
+2. wfvenv\Scripts\activate
+
+3. pip install requests
